@@ -79,6 +79,10 @@ body {
   margin-right: 15px;
 }
 
+.bg-white .author .name {
+  font-weight: 700;
+}
+
 .attribution {
   position: absolute;
   bottom: 10px;
